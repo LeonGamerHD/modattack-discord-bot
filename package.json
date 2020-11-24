@@ -1,0 +1,24 @@
+{
+  "name": "modattack-discord-bot",
+  "version": "1.0.0",
+  "description": "Ein Discord bot für den Minecraft MODATTACK Discord Server",
+  "main": "modattack.js",
+  "scripts": {
+    "start": "node modattack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonGamerHD/modattack-discord-bot.git"
+  },
+  "author": "LeonGamer_HD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonGamerHD/modattack-discord-bot/issues"
+  },
+  "homepage": "https://github.com/LeonGamerHD/modattack-discord-bot#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.0",
+    "node-fetch": "^2.6.1"
+  }
+}
